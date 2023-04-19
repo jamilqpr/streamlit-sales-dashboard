@@ -34,7 +34,7 @@ st.sidebar.header("Please Filter Here:")
 city = st.sidebar.multiselect(
     "Select the City:",
     options=df["City"].unique(),
-    default=df["City"].unique()
+    
 )
 
 customer_type = st.sidebar.multiselect(
