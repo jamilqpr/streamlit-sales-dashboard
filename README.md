@@ -23,14 +23,14 @@ Sales Dashboard: https://www.salesdashboard.pythonandvba.com/
 ## Author
 
 - Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
+- YouTube: https://youtube.com/c/Datatipss
 - Website: https://pythonandvba.com
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at contact@pythonandvba.com
+If you have any feedback, please reach out to me at jamilqpr@gmail.com
 
 
 ![Logo](https://www.pythonandvba.com/banner-img)
